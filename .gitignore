@@ -70,3 +70,6 @@ yarn-error.log
 
 # Deployment artifact
 site.tar.gz
+
+# IntelliJ
+.idea
